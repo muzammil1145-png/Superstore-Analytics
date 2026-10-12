@@ -1,24 +1,86 @@
-# 📦 Superstore Analytics | Power BI Dashboard Series
+# Superstore Customer & Sales Analytics — Power BI
 
-I developed a multi-layered Power BI dashboard suite to analyze customer behavior, shipping performance, and sales trends using the Superstore dataset. Each dashboard is crafted to reveal actionable insights across loyalty, logistics, and revenue.
+**Power BI · DAX · Customer Analytics · Sales Performance · Logistics**
 
-🔍 What I analyzed:
-- Repeat customer rates by year, segment, and item bucket
-- Shipping trends by mode, city, and item volume
-- Sales performance by category, sub-category, region, and segment
-- Customer Lifetime Value (CLV) versus discount behavior across customer types
-- Monthly and regional loyalty shifts
+This project uses the Superstore dataset to analyze customer loyalty, shipment behavior, sales performance, and discount effectiveness. The dashboard suite is designed to move beyond simple revenue reporting and show how customer behavior, product mix, geography, and shipping patterns interact.
 
-📊 Key insights:
-- Customers purchasing 2-3 items per shipment exhibit significantly higher repeat rates
-- The Consumer segment accounts for the largest share of shipments and quantity sold
-- A select few states and segments dominate sales and loyalty performance
-- Discounts have varying correlations with CLV across segments; not all promotions effectively drive retention
+---
 
-🛠 Tools & Skills:
-- Power BI (DAX, data modeling, interactive visuals)
-- KPI design and customer segmentation
-- Trend analysis, loyalty metrics, and performance storytelling
-- Map visuals, waterfall charts, scatterplots, and funnel logic
+## Executive Summary
 
-Skills: Dashboard Building, Microsoft Power BI, +2 skills
+I built a multi-view Power BI analysis focused on four business areas: customer retention, sales performance, shipping behavior, and discount effectiveness. The project demonstrates dashboard design, KPI development, segmentation, and business storytelling using an accessible retail dataset.
+
+### Portfolio Highlights
+
+- Analyzed repeat-customer behavior by year, segment, and item-volume bucket.
+- Compared sales across category, sub-category, region, and customer segment.
+- Evaluated shipping activity by mode, city, and shipment volume.
+- Explored relationships between **Customer Lifetime Value (CLV)** and discount behavior.
+- Built interactive visuals and filters using Power BI and DAX.
+
+---
+
+## Business Questions
+
+1. Which customer groups show the strongest repeat-purchase behavior?
+2. Which categories, regions, and segments drive sales?
+3. How does shipping behavior differ across customers and locations?
+4. Are higher discounts associated with stronger customer value?
+5. Which segments offer the best opportunities for retention and growth?
+
+---
+
+## Key Findings
+
+- Customers purchasing **2–3 items per shipment** showed stronger repeat behavior in the analyzed data.
+- The **Consumer** segment represented the largest share of shipments and quantity sold.
+- Sales and loyalty performance were concentrated among a subset of states and customer segments.
+- Discounting did not have the same relationship with customer value across all segments, reinforcing the need for targeted rather than blanket promotions.
+
+---
+
+## Analytical Workflow
+
+```text
+Superstore Transaction Data
+          │
+          ▼
+Data Preparation / Modeling
+          │
+          ▼
+DAX Measures & Segmentation
+          │
+          ▼
+Power BI Analysis
+• customer loyalty
+• sales performance
+• shipping behavior
+• discount vs. CLV
+          │
+          ▼
+Business Insights
+```
+
+---
+
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Data modeling
+- KPI development
+- Customer segmentation
+- Retention / loyalty analysis
+- Sales analysis
+- Shipping and logistics analysis
+- CLV analysis
+- Interactive dashboard design
+- Business storytelling
+
+---
+
+## What This Project Demonstrates
+
+This project demonstrates my ability to translate transactional retail data into a structured BI story for business users. It complements my more advanced portfolio work by showing core Power BI skills across customer, sales, and operational reporting.
+
+**Data → Model → Measures → Segmentation → Dashboard → Recommendation**
